@@ -1,0 +1,33 @@
+# Project information
+site_name: MDM Docs
+site_description: 'Documents MDM'
+site_author: 'Kameidosan'
+site_url: ''
+
+# Repository
+repo_name: 'mkdocs-mdm'
+repo_url: 'https://github.com/kameidosan/mkdocs-mdm'
+
+# Copyright
+copyright: 'Copyright &copy; 2018 Kameidosan'
+
+# Documentation and theme
+theme:
+  name: 'material'
+  language: 'ja'
+  palette:
+    primary: 'green'
+    accent: 'pink'
+  font:
+    text: 'Noto Sans JP'
+    code: 'Consolas'
+
+# Options
+extra:
+  social:
+    - type: 'github'
+      link: 'https://github.com/kameidosan'
+  search:
+    language: 'jp'
+
+# Extensions
